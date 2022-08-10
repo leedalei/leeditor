@@ -9,6 +9,10 @@
     "test:coverage": "umi-test --coverage",
     "prepublishOnly": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leedalei/leeditor.git"
+  },
   "files": [
     "dist/esm/index.js"
   ],
