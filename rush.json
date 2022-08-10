@@ -399,6 +399,7 @@
     {
       "packageName": "@leeditor/lee-button",
       "projectFolder": "packages/lee-button",
+      "shouldPublish": true
     }
   ]
 }
