@@ -12,8 +12,13 @@
     "type": "git",
     "url": "https://github.com/leedalei/leeditor.git"
   },
+  "author": {
+    "name": "leedalei",
+    "email": "543784988@qq.com",
+    "url": "leelei.info"
+  },
   "files": [
-    "dist/esm/index.js"
+    "dist"
   ],
   "module": "dist/esm/index.js",
   "typings": "dist/esm/index.d.ts",
