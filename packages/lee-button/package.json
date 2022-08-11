@@ -1,6 +1,6 @@
 {
   "name": "@leeditor/lee-button",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "build": "father build",
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\"",
