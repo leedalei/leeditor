@@ -1,0 +1,17 @@
+{
+  "name": "@leeditor/lee-button",
+  "entries": [
+    {
+      "version": "0.0.2",
+      "tag": "@leeditor/lee-button_v0.0.2",
+      "date": "Thu, 11 Aug 2022 07:34:47 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "package.json add author"
+          }
+        ]
+      }
+    }
+  ]
+}
